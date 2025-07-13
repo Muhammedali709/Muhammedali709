@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Muhammedali
 
 🎓 Software Engineering student at Karadeniz Technical University  
-🧠 Passionate about Machine Learning, Deep Learning, AI in Healthcare, OOP, Web Development, Data Structures, and Algorithms  
+🧠 Passionate about Machine Learning, Deep Learning, AI in Healthcare, OOP, Web Development, Data Structures and Algorithms  
 💻 Tech stack: Python, C#, PyTorch, React, NumPy, Pandas, Matplotlib, HTML/CSS/JavaScript, TensorFlow, OpenCV, YOLO, ResNet, UNet, Git
 
 ---
