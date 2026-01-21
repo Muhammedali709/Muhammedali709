@@ -3,7 +3,7 @@
 🎓 **Software Engineering Student** at [Karadeniz Technical University](https://www.ktu.edu.tr/)  
 🚀 **AI Researcher** focused on **Medical Imaging** & **Deep Learning** 🎨 **3D Enthusiast** exploring Blender & Design
 
-I am a software engineer who loves solving complex problems in healthcare using Artificial Intelligence. When I'm not training Neural Networks on my **MSI Vector**, you can find me **creating 3D worlds in Blender or trying to master the English Opening in chess.**
+I am a software engineer who loves solving complex problems in healthcare using Artificial Intelligence. When I'm not working on AI models and neural networks, you can find me **creating 3D worlds in Blender or trying to master the English Opening in chess.**
 
 ---
 
