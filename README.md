@@ -48,14 +48,6 @@ I am a software engineer who loves solving complex problems in healthcare using 
 * 🎓 **Machine and Deep Learning**
 * 🎨 **3D Animation** (Blender)
 
----
-
-## 🤝 Volunteering & Internships
-* **ASAN Volunteers** – Contributing to social welfare projects.
-* **ASAP (Azerbaijani Student and Alumni Platform)** – Networking and student advocacy.
-
----
-
 ## 📈 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammedali709&show_icons=true&theme=radical)
